@@ -46,10 +46,13 @@
     </td>
   </tr>
 </table>
-
-   </div>
+</div>
+<h2>Place at Joint Space ubon </h2>
+<img src="https://mpics.mgronline.com/pics/Images/561000002614001.JPEG" width="250px">
 <h2>Requirement for workshop</h2>
 <ul>
     <li>Your labtop MacOs/Window/Linux</li>
     <li>Docker Engine</li>
+    <li>Azure data studio</li>
+    <li>Text editors (recommend visual studio code)</li>
 </ul>

@@ -16,7 +16,7 @@
             <th>Speaker</th>
         </tr>
         <tr>
-            <td>10.00 AM - 11.00 AM</td>
+            <td>10.00 - 11.00</td>
             <td>SQL server</td>
             <td>
                 <img src="Paramat.jpg" width="40px">
@@ -24,7 +24,7 @@
             </td>
         </tr>
         <tr>
-            <td>11.00 AM - 12.00 PM</td>
+            <td>11.00 - 12.00</td>
             <td>Nodejs</td>
             <td>
                 <img src="Jirayuth2.jpg" width="40px">
@@ -32,7 +32,7 @@
             </td>
         </tr>
         <tr>
-            <td>13.30 PM - 14.30 PM</td>
+            <td>13.30 - 14.30</td>
             <td>React</td>
             <td>
                 <img src="Nuttawat.jpg" width="40px">
@@ -40,7 +40,7 @@
             </td>
         </tr>
         <tr>
-            <td>14.30 PM - 15.30 PM</td>
+            <td>14.30 - 15.30</td>
             <td>Utility CSS</td>
             <td>
                 <img src="Thanapong.jpg" width="40px">

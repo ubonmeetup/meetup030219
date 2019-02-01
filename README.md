@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# Meetup 03-02-19 at Joint Space ubon
-## Mini workshop
-![](flow.PNG)
-## Utility CSS
-<p >
-   <img src="utilitycss.jpg" width="150px">
-</p>
-=======
 <h1>Meetup 03-02-19</h1>
 <h2>Mini workshop : SQL server , Nodejs , React</h2>
 <div>
@@ -16,7 +7,6 @@
 <div style="text-align:center;">
     <img src="utilitycss.jpg" width="150px">
 </div>
->>>>>>> 7ea9d37cdf5e99bdb966239bcd030ecfa9a459d9
 <h2>Schedule</h2>
 <div>
     <table style="width:100%">
